@@ -1,4 +1,4 @@
-for x in range(6):
-  print(x)
+for у in range(4):
+  print(у)
 else:
-print("Досвидания!")
+print("Goodbye!")
